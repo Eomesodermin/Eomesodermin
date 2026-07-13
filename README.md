@@ -36,8 +36,6 @@ of cytotoxic lymphocytes and advancing NK/T cell therapy strategies from discove
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Seurat](https://img.shields.io/badge/Seurat-single--cell-1f77b4?style=flat-square)
 ![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat-square)
 ![SLURM](https://img.shields.io/badge/HPC-SLURM-2b6cb0?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
