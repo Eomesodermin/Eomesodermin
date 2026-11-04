@@ -59,7 +59,7 @@ of cytotoxic lymphocytes and advancing NK/T cell therapy strategies from discove
 - **[r-utility-functions](https://github.com/Eomesodermin/r-utility-functions)** — documented, tested R package of single-cell, bulk RNA-seq and TCGA helpers ([docs](https://dilloncorvino.com/r-utility-functions/))
 - **[HPC_workflows](https://github.com/Eomesodermin/HPC_workflows)** — SLURM job templates, conda environments and a tested Python job-script helper
 - **[lab-protocols](https://github.com/Eomesodermin/lab-protocols)** — standardised wet-lab and computational protocols ([site](https://dilloncorvino.com/lab-protocols/))
-- [scrnaseq-docker](https://github.com/Eomesodermin/scrnaseq-docker) · [tcga-survival-analysis](https://github.com/Eomesodermin/tcga-survival-analysis) · [fcs-file-renamer](https://github.com/Eomesodermin/fcs-file-renamer) · [pyrat-colony-reporting](https://github.com/Eomesodermin/pyrat-colony-reporting)
+- [fcs-file-renamer](https://github.com/Eomesodermin/fcs-file-renamer) · [pyrat-colony-reporting](https://github.com/Eomesodermin/pyrat-colony-reporting)
 
 *More at [dilloncorvino.com](https://dilloncorvino.com).*
 
